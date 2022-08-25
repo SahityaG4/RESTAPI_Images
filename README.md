@@ -1,3 +1,13 @@
+#steps to execute
+
+after extracting the files, just * npm start * command will execute the complete code.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,26 @@
+.card{
+    align-items: center;
+    /* justify-content: space-around; */
+    margin: 10vh;
+    width: 75vw;
+    display: flex;
+    border-style: solid;
+}
+.image{
+    margin-left: 1vw;
+    border-radius: 5%;
+}
+.card__content{
+    width: 100%;
+    margin-right: 5vw;
+}
+i{
+    position: relative;
+    top: 0;
+    right: 0;
+}
+.header{
+    margin-top: 0px;
+    padding: 0px;
+    display: flex;
+}
