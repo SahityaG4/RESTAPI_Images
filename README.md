@@ -1,5 +1,7 @@
 #steps to execute
 
+pushes to master branch
+
 after extracting the files, just * npm start * command will execute the complete code.
 
 
